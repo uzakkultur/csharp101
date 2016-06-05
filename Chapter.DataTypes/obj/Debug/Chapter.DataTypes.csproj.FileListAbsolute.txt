@@ -1,1 +1,7 @@
 C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\Chapter.DataTypes\Chapter.DataTypes\bin\Debug\Chapter.DataTypes.exe.config
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\Chapter.DataTypes\bin\Debug\Chapter.DataTypes.exe.config
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\Chapter.DataTypes\bin\Debug\Chapter.DataTypes.exe
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\Chapter.DataTypes\bin\Debug\Chapter.DataTypes.pdb
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\Chapter.DataTypes\obj\Debug\Chapter.DataTypes.csprojResolveAssemblyReference.cache
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\Chapter.DataTypes\obj\Debug\Chapter.DataTypes.exe
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\Chapter.DataTypes\obj\Debug\Chapter.DataTypes.pdb
