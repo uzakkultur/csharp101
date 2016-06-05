@@ -20,6 +20,10 @@ namespace Chapter.DataTypes
             uint uintnuri = 701; //0 ile 4294967295 arasi sayisal degeri belirtir. (4Byte)
             long longnuri = 7000; //-10^20 ile 10^20 arasi sayisal degeri belirtir. (8Byte)
             ulong ulongnuri = 70001; //0 ile 2*10^20 arasi sayisal degeri belirtir. (8Byte)
+            Calculator calculator = new Calculator();
+            int caltotal = calculator.CalTotal(27, 15);
+            int calimpact = calculator.CalImpact(12, 20);
+            long calminus = calculator.CalMinus(2016, 1988);
         }
     }
 }
