@@ -1,0 +1,5 @@
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\KarmaTipler01\bin\Debug\KarmaTipler01.dll
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\KarmaTipler01\bin\Debug\KarmaTipler01.pdb
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\KarmaTipler01\obj\Debug\KarmaTipler01.csprojResolveAssemblyReference.cache
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\KarmaTipler01\obj\Debug\KarmaTipler01.dll
+C:\Users\Serol Guzel\Desktop\uzakkultur\csharp101\KarmaTipler01\obj\Debug\KarmaTipler01.pdb

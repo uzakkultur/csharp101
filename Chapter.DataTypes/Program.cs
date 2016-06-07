@@ -29,7 +29,11 @@ namespace Chapter.DataTypes
             int calimpact = calculator.CalImpact(12, 20);
             long calminus = calculator.CalMinus(2016, 1988);
 
-            double a = 2.1;
+            //Decimal veri tipi
+            decimal decimalnuri = 3.5M; //+-1.0*10^-28 ile +-7.9*10^28 arasi sayisal degeri belirtir ve duyarli basamak sayisi 28-29dur. (12Byte)
+            
+            //Char veri tipi
+            char charnuri = 'a'; //Butun unicode karakteri alir. (2Byte)
         }
     }
 }
