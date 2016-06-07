@@ -20,10 +20,16 @@ namespace Chapter.DataTypes
             uint uintnuri = 701; //0 ile 4294967295 arasi sayisal degeri belirtir. (4Byte)
             long longnuri = 7000; //-10^20 ile 10^20 arasi sayisal degeri belirtir. (8Byte)
             ulong ulongnuri = 70001; //0 ile 2*10^20 arasi sayisal degeri belirtir. (8Byte)
+
+            // Kesirli sayi degisken tipleri (Floating point variables)
+            float floatnuri = 3.14f;
+            double doublenuri = 10.34; //5.0*10^-324 ile 1.7*10^308 degeri belirtir ve Duyarlı basamak sayısı 15 ile 16 arasidir. (8Byte)
             Calculator calculator = new Calculator();
             int caltotal = calculator.CalTotal(27, 15);
             int calimpact = calculator.CalImpact(12, 20);
             long calminus = calculator.CalMinus(2016, 1988);
+
+            double a = 2.1;
         }
     }
 }
